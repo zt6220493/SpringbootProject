@@ -1,4 +1,3 @@
-/target/
-/.gitignore
-/.idea/
-/SpringBootProject.iml
+.gitignore
+.idea/
+spring-boot.iml
